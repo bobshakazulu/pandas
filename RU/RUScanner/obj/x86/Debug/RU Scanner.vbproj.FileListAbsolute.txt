@@ -1,0 +1,9 @@
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\bin\Debug\DbPof.exe
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\bin\Debug\DbPof.pdb
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\bin\Debug\DbPof.xml
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\obj\x86\Debug\RU Scanner.vbprojAssemblyReference.cache
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\obj\x86\Debug\DbPof.Resources.resources
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\obj\x86\Debug\RU Scanner.vbproj.GenerateResource.cache
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\obj\x86\Debug\DbPof.exe
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\obj\x86\Debug\DbPof.xml
+C:\Users\bobshakazulu\Desktop\vmshare\RU\RUScanner\obj\x86\Debug\DbPof.pdb
